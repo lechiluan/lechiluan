@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lechiluan&label=Profile%20views&color=0e75b6&style=flat" alt="lechiluan" /> </p>
 
 - 🔭 I am a Software Engineer at Yes4All and a BackEnd Engineer at Finpal.
-- 🌟 Proficient in NodeJS, JavaScript, Python, Elixir.
+- 🌟 Proficient in Go (current primary stack), Node.js, JavaScript, Python, and Elixir.
 - 📫 How to reach me: <a href="https://linkedin.com/in/lechiluan" target="_blank">LinkedIn</a> - <a href="mailto:chiluan6601@gmail.com" target="_blank">Email</a>.
 </br>
 
