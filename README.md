@@ -3,7 +3,7 @@
 
 - 🔭 I am a Software Engineer at Yes4All and a BackEnd Engineer at Finpal.
 - 🌟 Proficient in Go (current primary stack), Node.js, JavaScript, Python, and Elixir.
-- 📫 How to reach me: <a href="https://linkedin.com/in/lechiluan" target="_blank">LinkedIn</a> - <a href="mailto:chiluan6601@gmail.com" target="_blank">Email</a>.
+- 📫 How to reach me: <a href="https://lechiluan.github.io" target="_blank">Portfolio</a> - <a href="https://linkedin.com/in/lechiluan" target="_blank">LinkedIn</a> - <a href="mailto:chiluan6601@gmail.com" target="_blank">Email</a>.
 </br>
 
 ## 🏆 My Stats
